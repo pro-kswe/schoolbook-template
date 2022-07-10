@@ -263,7 +263,7 @@ pythontex-files-*/
 # Latexian
 TSWLatexianTemp*
 
-## Editors:
+## Edssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBVlWukTVG4bV6O3WmOtn9Yas4Flfsv8yUjsyiwIOt8b pro@kswe.chitors:
 # WinEdt
 *.bak
 *.sav
@@ -495,3 +495,7 @@ Temporary Items
 # glossaries
 
 # End of https://www.toptal.com/developers/gitignore/api/latex,tex,macos
+
+# Additional
+
+*.lern
